@@ -8,7 +8,7 @@ public class First {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("welocme git ");
+		System.out.println("welocme ");
 		
 
 	}
